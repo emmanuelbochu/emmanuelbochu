@@ -4,7 +4,7 @@
 
 - **Je cherche un stage du 29 mars au 18 juin 2027**, dans le Vaucluse, le Gard, les Bouches-du-Rhône ou l'Hérault (télétravail possible).
 - Portfolio : [emmanuelbochu.fr](https://www.emmanuelbochu.fr)
-- J'utilise l'IA comme un outil que je dirige : je cadre le travail, je relis les changements, je vérifie le résultat. Chaque dépôt a une section « Usage de l'IA » qui dit précisément ce qui a été fait avec et sans.
+- Les technologies ci-dessous sont celles que j'ai codées moi-même. J'utilise aussi l'IA comme un outil que je dirige : je cadre le travail, je relis les changements, je vérifie le résultat. Chaque dépôt a une section « Usage de l'IA » qui dit précisément ce qui a été fait avec et sans.
 
 ---
 
@@ -14,8 +14,6 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 #### Bases de données
@@ -23,12 +21,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![phpPgAdmin](https://img.shields.io/badge/phpPgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Frameworks et bibliothèques
+#### Framework
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
 #### IA
 
