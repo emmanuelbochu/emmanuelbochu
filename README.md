@@ -3,7 +3,7 @@
 Étudiant en 2e année de BUT Informatique, titulaire d'un BTS Maintenance des Systèmes.
 
 - **Je cherche un stage du 29 mars au 18 juin 2027**, dans le Vaucluse, le Gard, les Bouches-du-Rhône ou l'Hérault (télétravail possible).
-- Portfolio : [emmanuel-bochu.vercel.app](https://emmanuel-bochu.vercel.app)
+- Portfolio : [emmanuelbochu.fr](https://www.emmanuelbochu.fr)
 - J'utilise l'IA comme un outil que je dirige : je cadre le travail, je relis les changements, je vérifie le résultat. Chaque dépôt a une section « Usage de l'IA » qui dit précisément ce qui a été fait avec et sans.
 
 ---
@@ -63,6 +63,6 @@ Gestionnaire de bibliothèque en ligne de commande : consultation, recherche, im
 
 App iOS de musculation et d'alimentation, conçue et dirigée par moi, code généré par IA. Swift, SwiftUI, SwiftData.
 
-#### [Portfolio 3D](https://emmanuel-bochu.vercel.app)
+#### [Portfolio 3D](https://www.emmanuelbochu.fr)
 
 Mon portfolio, site statique HTML, CSS et JavaScript avec une scène 3D en Three.js, déployé sur Vercel.
